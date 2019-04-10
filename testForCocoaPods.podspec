@@ -28,7 +28,6 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/lfsoul1982/cocoapods2"
-  # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -93,8 +92,6 @@ Pod::Spec.new do |s|
   s.source_files  = "Classes", "Classes/**/*.{h,m}"
 
   # s.public_header_files = "Classes/**/*.h"
-
-  s.ios.frameworks = 'Foundation', 'UIKit'
 
 
 
