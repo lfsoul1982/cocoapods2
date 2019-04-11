@@ -30,7 +30,6 @@ Pod::Spec.new do |s|
   # s.social_media_url   = "http://twitter.com/lifei.lf"
 
   
-  s.platform     = :ios
   s.platform     = :ios, "8.0"
 
  
