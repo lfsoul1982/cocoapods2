@@ -36,7 +36,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/lfsoul1982/cocoapods2.git", :tag => "#{s.version}" }
 
 
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
+  s.source_files  = "cocoapodsLib", "cocoapodsLib/**/*.{h,m}"
 
   s.requires_arc = true
 
